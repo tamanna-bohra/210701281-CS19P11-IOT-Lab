@@ -1,16 +1,4 @@
-/************************************************************************************
 
- *  My Channel:https://www.youtube.com/c/ImpulseTech/featured Visit for More Project Videos
- *  
- *  *********************************************************************************
- *  Preferences--> Aditional boards Manager URLs : 
- *  For ESP32:
- *  https://dl.espressif.com/dl/package_esp32_index.json
- *  https://blynk.cloud/external/api/logEvent?token=YourAuthToken&code=hello for loging the events using rest API
- *  You can send only 100 events per devices per day
-    When the limit is reached you'll see the notification on the UI in the Device Timeline section
-    The maximum description length for the event is 300 chars
- *  *********************************************************************************/
 
 #define BLYNK_TEMPLATE_ID "TMPL3cepx2c10"
 #define BLYNK_TEMPLATE_NAME "IoT Based Fall Detection"
